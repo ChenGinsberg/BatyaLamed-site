@@ -36,12 +36,12 @@
 
 .blog-card .photo.photo1 {
     height: 130px;
-    background: url("../image/red-article.png") center no-repeat;
+    background: url("/image/red-article.png") center no-repeat;
     background-size: cover;
 }
 
 .blog-card .photo.photo2 {
-    background: url("../image/yellow-article.png") center no-repeat;
+    background: url("/image/yellow-article.png") center no-repeat;
     background-size: cover;
     height: 200px;
     /* zoom: 1.7; */
@@ -51,7 +51,7 @@
 }
 
 .blog-card .photo.photo3 {
-    background: url("../image/green-article - Copy.gif") center no-repeat;
+    background: url("/image/green-article - Copy.gif") center no-repeat;
     background-size: cover;
 }
 
