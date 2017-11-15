@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+}
+
+
+/* NAV */
+
+.navbar-blue {
+    background-color: #012231 !important;
+    min-height: 80px;
+}
+
+.nav-icon {
+    color: gainsboro !important;
+}
+
+.logo-nav {
+    background-color: white;
+}

@@ -1,0 +1,8 @@
+.flexTest {
+    display: flex;
+    justify-content: center;
+}
+
+.recommended {
+    height: 100px;
+}

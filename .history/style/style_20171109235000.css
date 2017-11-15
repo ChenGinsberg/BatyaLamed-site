@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+}
+
+
+/* NAV */
+
+.navbar-blue {
+    background-color: #012231;
+    min-height: 80px;
+}
+
+.logo-nav {}
+
+.nav-svg-icon {
+    height: 20px
+}
+
+.nav-iconn {
+    background-color: white;
+}

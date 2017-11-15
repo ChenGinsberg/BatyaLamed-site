@@ -1,0 +1,38 @@
+/* NAV */
+
+.navbar-blue {
+    background-color: #012231;
+    min-height: 80px;
+}
+
+.logo-nav {
+    height: 52px;
+    position: absolute;
+    right: 13px;
+    top: 20px;
+}
+
+.nav-svg-icon {
+    height: 33.6px;
+    position: relative;
+    left: 3%;
+    margin: 5.6% 10px 10px 10px;
+}
+
+.nav-iconn {
+    margin-right: 1%;
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    position: relative;
+    left: 5.6%;
+    font-size: 0.70em;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+    padding-right: 1.5%;
+    top: -13px;
+    /* */
+}
+
+.nav-iconn:hover {
+    background: red;
+}

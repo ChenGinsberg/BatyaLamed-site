@@ -1,0 +1,46 @@
+.container {
+    margin: 16px auto;
+    width: 93%;
+    height: 250PX;
+    overflow: hidden;
+    border: 8px solid;
+    /* border-top-color: #012231;
+    border-left-color: #012231;
+    border-bottom-color: #012231;
+    border-right-color: #012231; */
+    position: relative;
+}
+
+.photo {
+    position: absolute;
+    animation: round 16s infinite;
+    opacity: 0;
+    max-width: 100%;
+}
+
+@keyframes round {
+    25% {
+        opacity: 1;
+    }
+    40% {
+        opacity: 0;
+    }
+}
+
+img:nth-child(1) {
+    animation-delay: 12s;
+}
+
+img:nth-child(2) {
+    animation-delay: 8s;
+}
+
+img:nth-child(3) {
+    animation-delay: 4s;
+}
+
+img:nth-child(4) {
+    animation-delay: 0s;
+}
+
+\

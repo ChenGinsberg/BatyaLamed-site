@@ -1,0 +1,20 @@
+body {
+    background-color: lightgray;
+}
+
+
+/* NAV */
+
+.navbar-blue {
+    background-color: #012231;
+    min-height: 80px;
+}
+
+.logo-nav {
+    background-color: white;
+}
+
+.nav-iconn {
+    background-color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+}

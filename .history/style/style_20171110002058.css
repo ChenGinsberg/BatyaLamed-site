@@ -1,0 +1,34 @@
+body {
+    background-color: lightgray;
+}
+
+
+/* NAV */
+
+.navbar-blue {
+    background-color: #012231;
+    min-height: 80px;
+}
+
+.logo-nav {
+    height: 75px;
+    position: absolute;
+}
+
+.nav-svg-icon {
+    height: 25.6px;
+    position: relative;
+    left: 24.9%;
+    margin: 3.6% 37px 10px 10px;
+}
+
+.nav-iconn {
+    margin-right: 1%;
+    font-family: "Open Sans Hebrew", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    position: relative;
+    left: 24.6%;
+    font-size: 0.9em;
+    background: #C1B2AB;
+    border-radius: 3px;
+}
