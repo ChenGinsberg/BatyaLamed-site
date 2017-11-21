@@ -1,23 +1,8 @@
 /* NAV */
 
-.logoContainer {
-    background-color: #012231;
-    height: 40px;
-    width: 100%;
-    border-bottom: double;
-    border-bottom-color: #FFDA44;
-}
-
-.logo-nav {
-    height: 34px;
-    position: absolute;
-    right: 1%;
-    top: 5px;
-}
-
 .navbar-blue {
     background-color: #012231;
-    width: 100%;
+    width: 83.6%;
 }
 
 .nav-icons {
@@ -26,6 +11,13 @@
     flex-wrap: wrap;
     width: 100%;
     justify-content: space-evenly;
+}
+
+.logo-nav {
+    height: 105px;
+    position: absolute;
+    right: 3px;
+    top: 3px;
 }
 
 .nav--icon {

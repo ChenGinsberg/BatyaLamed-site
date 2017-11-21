@@ -1,0 +1,47 @@
+/* NAV */
+
+.navbar-blue {
+    background-color: #012231;
+    min-height: 80px;
+}
+
+.nav-icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 85%;
+    justify-content: space-evenly;
+}
+
+.logo-nav {
+    height: 52px;
+    position: absolute;
+    right: 11px;
+    top: 11px;
+}
+
+.nav--icon {
+    width: 44px;
+    margin-top: 13px;
+}
+
+.nav-text {}
+
+
+/* .nav-iconn {
+    margin-right: 1%;
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    position: relative;
+    left: 4.2%;
+    font-size: 0.70em;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+    padding-right: 2%;
+    top: -13px; */
+
+
+}
+.nav-iconn:hover {
+    background: red;
+}

@@ -1,31 +1,23 @@
 /* NAV */
 
-.logoContainer {
-    background-color: #012231;
-    height: 40px;
-    width: 100%;
-    border-bottom: double;
-    border-bottom-color: #FFDA44;
-}
-
-.logo-nav {
-    height: 34px;
-    position: absolute;
-    right: 1%;
-    top: 5px;
-}
-
 .navbar-blue {
     background-color: #012231;
-    width: 100%;
+    min-height: 80px;
 }
 
 .nav-icons {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
+    width: 85%;
     justify-content: space-evenly;
+}
+
+.logo-nav {
+    height: 52px;
+    position: absolute;
+    right: 11px;
+    top: 11px;
 }
 
 .nav--icon {
@@ -37,19 +29,7 @@
     color: #012231;
     background-color: #FFDA44;
     font-family: sans-serif;
-    height: 29px;
-    border: groove;
-    border-color: ivory;
-    font-weight: bold;
-    font-size: 0.9em;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
-    justify-content: space-evenly;
 }
-
-.nav-iconn {}
 
 
 /* .nav-iconn {
