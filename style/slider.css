@@ -1,5 +1,5 @@
 .container {
-    margin: 16px auto;
+    margin: 10px auto;
     width: 93%;
     height: 200px;
     overflow: hidden;
@@ -39,4 +39,8 @@ img:nth-child(3) {
 
 img:nth-child(4) {
     animation-delay: 0s;
+}
+
+.bx-wrapper {
+    margin-bottom: 10px;
 }

@@ -49,18 +49,24 @@
     justify-content: space-evenly;
 }
 
+.yellowHR {
+    background-color: #FFDA44;
+    height: 12px;
+    border-radius: 10px 10px 0px 0px;
+    border: 1px solid #012231;
+    box-shadow: 9px 7px 7px -3px rgba(0, 0, 0, 0.3);
+}
 
-/* .nav-iconn {
-    margin-right: 1%;
-    font-family: 'Varela Round', sans-serif;
-    color: white;
-    position: relative;
-    left: 4.2%;
-    font-size: 0.70em;
-    border-radius: 3px;
-    transition: all 0.3s ease;
-    padding-right: 2%;
-    top: -13px; */
+.blueHR {
+    background-color: #012231;
+    height: 25px;
+    border-radius: 15px 11px 10px 10px;
+    box-shadow: 9px 7px 7px -3px rgba(0, 0, 0, 0.3);
+    margin-bottom: 10px;
+    border-bottom: 1px solid #FFDA44;
+    border-left: 1px solid #FFDA44;
+    border-right: 1px solid #FFDA44;
+}
 
 .nav-iconn:hover {
     background: red;
