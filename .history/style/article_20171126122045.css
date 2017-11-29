@@ -1,0 +1,8 @@
+body {
+    background-color: lightgray;
+    margin: 2.8px;
+}
+
+h1 {
+    background: radial-gradient(circle, #0077ea, #1f4f96, #1b2949, #000000);
+}

@@ -1,0 +1,69 @@
+/* NAV */
+
+.logoContainer {
+    background-color: #012231;
+    height: 40px;
+    width: 100%;
+    border-bottom: double;
+    border-bottom-color: #FFDA44;
+}
+
+.logo-nav {
+    height: 34px;
+    position: absolute;
+    right: 1%;
+    top: 5px;
+}
+
+.navbar-blue {
+    background-color: #012231;
+    width: 100%;
+}
+
+.nav-icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.nav--icon {
+    width: 44px;
+    margin-top: 13px;
+}
+
+.nav-text {
+    color: #012231;
+    background-color: #FFDA44;
+    font-family: sans-serif;
+    height: 29px;
+    border: groove;
+    border-color: ivory;
+    font-weight: bold;
+    font-size: 0.9em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.yellowHR {
+    background-color: #FFDA44;
+    height: 15px;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 9px 7px 7px -3px rgba(0, 0, 0, 0.3);
+}
+
+.blueHR {
+    background-color: #012231;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 9px 7px 7px -3px rgba(0, 0, 0, 0.3);
+    margin-bottom: 10px;
+}
+
+.nav-iconn:hover {
+    background: red;
+}

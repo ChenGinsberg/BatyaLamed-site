@@ -1,0 +1,8 @@
+body {
+    background-color: lightgray;
+    margin: 2.8px;
+}
+
+h1 {
+    color: radial-gradient(circle, darken(dodgerblue, 10%), #1f4f96, #1b2949, #000);
+}
